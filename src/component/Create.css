@@ -1,0 +1,55 @@
+.whole {
+    margin-left: 170px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+
+.inp {
+    width: 100%;
+    margin-top: 20px;
+    height: 30px;
+    margin-bottom: 30px;
+}
+
+.inp:focus {
+    padding-left: 5px;
+}
+
+.sec {
+    margin-top: 40px;
+}
+
+.lab {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sub-btn {
+    padding: 10px 20px;
+    color: white;
+    background-color: #900C3F ;
+    border: none;
+}
+
+.sub-btn:hover {
+    background-color: #C70039;
+}
+
+.sett {
+    display : flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ch-btn {
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    background-color: black;
+}
+
+.ch-btn:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}

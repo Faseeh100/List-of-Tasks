@@ -1,0 +1,54 @@
+.whole {
+    margin-left: 170px;
+    margin-right: 200px;
+}
+
+.inp {
+    width: 100%;
+    margin-top: 20px;
+    height : 30px;
+    margin-bottom: 30px;
+}
+
+.inp:focus {
+    padding-left: 5px;
+}
+
+.sec {
+    margin-top : 40px;
+}
+
+.lab {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.upd-btn {
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    background-color: #0a721b;
+}
+
+.upd-btn:hover {
+    background-color: #51e70f;
+}
+
+.sett {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.b-btn {
+    padding: 10px 23px;
+    border: none;
+    color: white;
+    background-color: black;
+}
+
+.b-btn:hover {
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+}
